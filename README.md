@@ -1,23 +1,15 @@
-<div align="center">
-  <img src="./assets/cat-tickleee.gif" width="40%" alt="Coding Cat">
-  <h1>Hi, I'm  Zentyvi</h1>
-  <p>And I'm a Full Stack Web Developer :3</p>
-</div>
+# Hi, I'm Artem
+
+**Software Developer | Full stack developer**
+
+Full stack developer with solid foundation built through [The Odin Project](https://www.theodinproject.com). Passionate about building web applications and learning new techs.
+I'm currently open for Junior / Intern opportunities (Local & Remote). Based in Romania 🇷🇴
 
 ---
 
-### 🚀 About Me
+## 🔥 Tech Stack
 
-- 🎓 Currently completing **The Odin Project** (Full Stack JavaScript Curriculum).
-- 🛠️ Passionate about building web applications from scratch.
-- 💻 Comfortable working with **Linux** and managing version control via **Git CLI**.
-- 🌍 Based in Romania | Open for Junior / Intern opportunities (Local & Remote).
-
----
-
-### 🛠️ Tech Stack
-
-**Frontend & Styling:**
+**Frontend:**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -34,6 +26,6 @@
 
 ---
 
-<div align="center">
-  <sub>Built with 🩵 and Node.js</sub>
-</div>
+## 📨 Connect with me
+
+[Portfolio](https://zentyvi.github.io/personal-website/) • [Telegram](https://t.me/zentyvi) • [Email](mailto:zentyvi1111@gmail.com)

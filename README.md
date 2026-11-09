@@ -1,9 +1,9 @@
-# Hi, I'm Artem
+# Hi, I'm Artem!
 
 **Software Developer | Full stack developer**
 
-Full stack developer with solid foundation built through [The Odin Project](https://www.theodinproject.com). Passionate about building web applications and learning new techs.
-I'm currently open for Junior / Intern opportunities (Local & Remote). Based in Romania 🇷🇴
+Self-taught full stack developer with solid foundation built through [The Odin Project](https://www.theodinproject.com). Passionate about building web applications and learning new techs.
+I'm currently open for Junior / Intern opportunities (Local & Remote). Ready to relocate within Romania! 🇷🇴
 
 ---
 
@@ -11,14 +11,16 @@ I'm currently open for Junior / Intern opportunities (Local & Remote). Based in 
 
 **Frontend:**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=for-the-badge)
 ![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white)
 
 **Backend & DB**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Prisma ORM](https://img.shields.io/badge/Prisma_ORM-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![Passport.js](https://img.shields.io/badge/Passport.js-24a357?style=for-the-badge&logo=passport&logoColor=white)

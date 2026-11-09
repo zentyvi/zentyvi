@@ -19,11 +19,12 @@ I'm currently open for Junior / Intern opportunities (Local & Remote). Ready to 
 
 **Backend & DB**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB&style=for-the-badge)
+![Passport.js](https://img.shields.io/badge/Passport.js-24a357?style=for-the-badge&logo=passport&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Prisma ORM](https://img.shields.io/badge/Prisma_ORM-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![Passport.js](https://img.shields.io/badge/Passport.js-24a357?style=for-the-badge&logo=passport&logoColor=white)
 
 **Tools & Practices**
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
